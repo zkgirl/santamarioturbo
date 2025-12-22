@@ -1,0 +1,13 @@
+# Rust
+/target
+
+# WASM / web builds
+/dist
+/pkg
+
+# Tools
+/.claude
+
+# OS junk
+.DS_Store
+Thumbs.db

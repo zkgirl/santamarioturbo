@@ -1,0 +1,8 @@
+name = "Santa Mario"
+version = "1.0.0"
+author = "Turbo Game Dev"
+description = "A festive platformer - Help Santa deliver gifts!"
+
+[canvas]
+width = 320
+height = 180
