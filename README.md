@@ -2,7 +2,10 @@
 
 A festive Christmas-themed platformer built with **Rust** and the **Turbo Genesis SDK**. Help Santa deliver gifts across 10 challenging levels culminating in an epic boss battle against Krampus!
 
-![Game Preview](sprites/background320x180.png)
+## 🎥 Gameplay Preview
+
+[![Watch Gameplay Video](https://img.youtube.com/vi/Whxqm5CN9p0/0.jpg)](https://youtu.be/Whxqm5CN9p0)
+
 
 ---
 
