@@ -27,6 +27,10 @@ A festive Christmas-themed platformer built with **Rust** and the **Turbo Genesi
 - ⚙️ Enter is used to confirm options inside the Settings tab
 - 🔧 Press ESC to open Settings
 - 📄 Full controls are listed on GitHub
+- 🕹️ Variable Jump Height:
+  - Tap Space briefly for a short jump
+  - Hold Space to jump higher
+  - Releasing Space early reduces jump height
 
 ### Developers Mode
 - In settings page use **Code: santagiftsme** for entering in developers mode
