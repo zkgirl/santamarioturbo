@@ -20,7 +20,7 @@ A festive Christmas-themed platformer built with **Rust** and the **Turbo Genesi
 | Select/Confirm | Space / Enter | A Button |
 | Navigate Menu | ↑↓ Arrows | D-Pad |
 
-⚠️ Important Controls Note
+# ⚠️ Important Controls Note
 
 - ❌ Do NOT use Enter to select a level
 - ✅ Use Space to select levels
@@ -135,6 +135,125 @@ Access via **ESC** during gameplay:
 | Developer Mode | Debug features for testing |
 
 ---
+# 🎁 Bonus Challenges
+
+This document outlines which optional bonus challenges **Santa Mario** implements.
+
+---
+
+## ✅ Challenges Implemented
+
+### 🎁 Pixel-Perfect Present
+**16-bit–inspired pixel art with SNES-era polish**
+
+- 320×180 pixel resolution (retro aesthetic)
+- 32×32 pixel art sprites with rich shading and detail
+- Multi-layer parallax city skylines with atmospheric depth
+- Soft gradients and smooth color ramps
+- Custom pixel art for all characters, enemies, and environments
+- Warm color palette with subtle glow effects on windows and lights
+
+> **Note:** This is authentically **16-bit SNES-style** art — too rich and polished for strict 8-bit NES limitations. Own it! 🎨
+
+---
+
+### 🎵 Chiptune Christmas Carol
+**Original retro audio and sound effects**
+
+- 14 original sound files
+- Background music: `sleighride.ogg`
+- Sound effects for jumps, enemy defeats, gift collection, and more
+- Toggle options for Music and SFX in settings
+
+---
+
+### 🏆 High Score Hero
+**Addictive scoring systems with multipliers**
+
+| Action | Points |
+|--------|--------|
+| Collect Gift | 100 |
+| Defeat Enemy | 200 |
+| Complete Level | 500 |
+| All 5 Gifts Bonus | 1,000 |
+| No Deaths Bonus | 500 |
+| Time Bonus | 10 pts/sec under par |
+
+**Ranking System:**
+- **S Rank**: Perfect run (all gifts, no deaths, under par time)
+- **A Rank**: Excellent performance
+- **B Rank**: Good performance
+- **C Rank**: Average performance
+- **D Rank**: Completed level
+
+---
+
+### 👹 Boss Battle Bonanza
+**Multi-phase Christmas boss fight**
+
+Giant Krampus Boss with 150 HP across 3 distinct phases:
+
+| Phase | HP Range | Behavior |
+|-------|----------|----------|
+| Phase 1 | 100% → 67% | Slow walking, basic attacks |
+| Phase 2 | 67% → 33% | Faster movement, snowball attacks |
+| Phase 3 | 33% → 0% | Very fast, unpredictable patterns |
+
+Defeat by stomping on his head (10 damage per stomp)!
+
+---
+
+### 🪙 Quarter Muncher
+**Perfect arcade difficulty balance**
+
+- 10 levels with progressive difficulty (⭐ to ⭐⭐⭐⭐⭐)
+- Arcade Mode toggle in settings
+- Lives system with checkpoints
+- Fair but challenging enemy placement
+- Coyote time and jump buffering for responsive controls
+
+---
+
+## ❌ Challenges Not Implemented
+
+| Challenge | Reason |
+|-----------|--------|
+| 👥 **Co-op Christmas** | Single-player experience only |
+| 🔁 **Endless Mode Master** | Fixed 10 handcrafted levels, no procedural generation |
+
+---
+
+## ⚠️ Partial Implementation
+
+### 🎭 Genre Bender
+**Creative genre combinations**
+
+While primarily a platformer, Santa Mario incorporates elements of:
+- **Action**: Enemy combat with stomping mechanics
+- **Boss Rush**: Epic final boss encounter
+- **Collectathon**: 5 gifts per level to collect
+
+---
+
+## Summary
+
+| Challenge | Status |
+|-----------|--------|
+| 🎁 Pixel-Perfect Present | ✅ Implemented |
+| 🎵 Chiptune Christmas Carol | ✅ Implemented |
+| 🏆 High Score Hero | ✅ Implemented |
+| 👥 Co-op Christmas | ❌ Not Implemented |
+| 🎭 Genre Bender | ⚠️ Partial |
+| 👹 Boss Battle Bonanza | ✅ Implemented |
+| 🔁 Endless Mode Master | ❌ Not Implemented |
+| 🪙 Quarter Muncher | ✅ Implemented |
+
+**Total: 5/8 bonus challenges fully implemented**
+
+---
+
+🎄 *Happy Holidays from Santa Mario!* 🎅
+
 
 ## 🛠️ Technical Details
 
