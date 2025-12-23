@@ -20,6 +20,19 @@ A festive Christmas-themed platformer built with **Rust** and the **Turbo Genesi
 | Select/Confirm | Space / Enter | A Button |
 | Navigate Menu | ↑↓ Arrows | D-Pad |
 
+⚠️ Important Controls Note
+
+❌ Do NOT use Enter to select a level
+✅ Use Space to select levels
+⚙️ Enter is used to confirm options inside the Settings tab
+🔧 Press ESC to open Settings
+📄 Full controls are listed on GitHub
+
+### Developers Mode
+- In settings page use **Code: santagiftsme** for entering in developers mode
+- In **level 10** you can be able to fight boss
+
+
 ### Advanced Mechanics
 - **Short Hop**: Release jump early for shorter jumps
 - **Coyote Time**: Jump briefly after leaving a platform edge
