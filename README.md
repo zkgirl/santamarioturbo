@@ -22,11 +22,11 @@ A festive Christmas-themed platformer built with **Rust** and the **Turbo Genesi
 
 ⚠️ Important Controls Note
 
-❌ Do NOT use Enter to select a level
-✅ Use Space to select levels
-⚙️ Enter is used to confirm options inside the Settings tab
-🔧 Press ESC to open Settings
-📄 Full controls are listed on GitHub
+-❌ Do NOT use Enter to select a level
+-✅ Use Space to select levels
+-⚙️ Enter is used to confirm options inside the Settings tab
+-🔧 Press ESC to open Settings
+-📄 Full controls are listed on GitHub
 
 ### Developers Mode
 - In settings page use **Code: santagiftsme** for entering in developers mode
