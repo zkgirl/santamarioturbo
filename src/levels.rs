@@ -701,7 +701,7 @@ impl GameState {
         self.plat9_y = 105.0;
 
         // FINAL GOAL PLATFORM
-        self.plat10_x1 = 2100.0;
+        self.plat10_x1 = 2040.0;
         self.plat10_x2 = 2400.0;
         self.plat10_y = 150.0;
 
